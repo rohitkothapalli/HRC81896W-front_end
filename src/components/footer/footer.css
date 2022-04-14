@@ -1,0 +1,10 @@
+#footer-text{
+    text-align: center;
+    color: white;
+}
+
+#footer-container{
+    background-color: #11203A;
+    height: 3.8vw;
+    /* border: 2px solid orange; */
+}
